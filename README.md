@@ -1,4 +1,4 @@
-### ✨Amir Pourmand✨
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+I+am+Amir+Pourmand)](https://git.io/typing-svg)
 
 Currently, I am a master's student studying at [Sharif University of Technology](http://www.sharif.edu/). 
 
