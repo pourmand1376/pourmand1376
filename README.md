@@ -6,6 +6,7 @@ Currently, I am a master's student studying at [Sharif University of Technology]
 📫 You can visit my homepage on [amirpourmand.ir](https://amirpourmand.ir/)
 
 - [GitHub Online Resume](https://resume.github.io/?pourmand1376)
+- [GitHub Public Gists](https://gists.github.com/pourmand1376)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pourmand1376&show_icons=true&theme=default&bg_color=00000000)
 
