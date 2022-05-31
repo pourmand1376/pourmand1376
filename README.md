@@ -14,7 +14,7 @@ Techincal Skills:
 
 - **GIT**: I have good experience in working with git (you can see my pull requests in github) and I've taken quite a few courses (one of which is Mosh Hamedani's course). 
 - **Docker**: Also Mosh Hamedani's course on docker :). I have also added docker support to some of open source projects like `ai-folio`, `simorq`.
-- **SQL-Server**: Lots of experience in optimzing SQL-server queries. Probably, the most noticable one was a 100x optimization on a task that is done frequently. 
+- **SQL-Server**: Lots of experience in optimizing SQL-server queries. Probably, the most noticable one was a 100x optimization on a task that is done frequently. 
 - **C#**: I can say I've taken all mosh courses. I love mosh :) I think his courses are of the best quality. I've worked with c# in industry for 4 years. After learning all libraries and different aspects, I decided that I want to be an ML scientist. So python is the way to go. 
 - **Python**: Something that everyone should know. 
 - **Pytorch**: It's been a year ... so still not a professional. 
