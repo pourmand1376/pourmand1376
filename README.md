@@ -9,7 +9,7 @@ Currently, I am a master's student studying at [Sharif University of Technology]
 - [GitHub Public Gists](https://gist.github.com/pourmand1376)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pourmand1376&show_icons=true&theme=default&bg_color=00000000)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pourmand1376&background=00000000&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=pourmand1376&color=00000000)](https://git.io/streak-stats)
 
 
 Techincal Skills:
