@@ -26,6 +26,8 @@ Currently, I am a master's student studying at [Sharif University of Technology]
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pourmand1376.pourmand1376)
 
+![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/amirpourmand)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/amirpourmand76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirpourmand76" height="30" width="40" /></a>
