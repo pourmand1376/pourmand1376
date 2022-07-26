@@ -25,7 +25,6 @@ Currently, I am a master's student studying at [Sharif University of Technology]
 - **Tensorflow**: to some extent. Not a professional. 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pourmand1376.pourmand1376)
-
 ![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/amirpourmand)
 
 <h3 align="left">Connect with me:</h3>
