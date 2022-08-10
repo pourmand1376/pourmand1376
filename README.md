@@ -24,6 +24,11 @@ Currently, I am a master's student studying at [Sharif University of Technology]
 - **Pytorch**: It's been a year ... so still not a professional. 
 - **Tensorflow**: to some extent. Not a professional. 
 
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 ![](https://visitor-badge.glitch.me/badge?page_id=pourmand1376.pourmand1376)
 ![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/amirpourmand)
 
