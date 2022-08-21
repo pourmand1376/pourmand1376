@@ -3,10 +3,11 @@
 
 Currently, I am a master's student studying at [Sharif University of Technology](http://www.sharif.edu/). 
 
-📫 You can visit my homepage on [amirpourmand.ir](https://amirpourmand.ir/)
+📫 You can visit my homepage on [amirpourmand.ir](https://amirpourmand.ir/).
 
-- [GitHub Online Resume](https://resume.github.io/?pourmand1376)
-- [GitHub Public Gists](https://gist.github.com/pourmand1376)
+You can see my Github contributions at [Github resume](https://resume.github.io/?pourmand1376). Also [GitHub Public Gists](https://gist.github.com/pourmand1376) is where I have store simple commands which help my productivity. 
+
+Probably the most useful repo for myself is [my dotfiles](https://github.com/pourmand1376/.dotfiles). 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pourmand1376&show_icons=true&theme=default&bg_color=00000000)
 
