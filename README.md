@@ -39,7 +39,7 @@ Probably the most useful repo for myself is [my dotfiles](https://github.com/pou
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/amirpourmand76" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirpourmand76" height="30" width="40" /></a>
+<a href="https://twitter.com/pourmand_amir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amirpourmand" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/amir-pourmand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amir-pourmand" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4201765" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4201765" height="30" width="40" /></a>
 <a href="https://stackexchange.com/users/5259996/amir-pourmand?tab=accounts" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/e0/Stack_Exchange_icon.svg" alt="stackexchange" height="30" width="40" /></a>
