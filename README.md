@@ -28,6 +28,7 @@ Probably the most useful repo for myself is [my dotfiles](https://github.com/pou
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Make Windows Faster](https://amirpourmand.ir/blog/2022/Make-Windows-Faster/)
 - [A Guide to setup your own jekyll website](https://amirpourmand.ir/blog/2022/Al-folio-Jekyll-website/)
 - [Guide for using remote server &lpar;linux&rpar; for a data scientist!](https://amirpourmand.ir/blog/2022/guide-to-use-remote-linux-server/)
 - [Most Useful Sites and tools &lpar;All Online&rpar;](https://amirpourmand.ir/blog/2021/useful-sites/)
