@@ -3,7 +3,7 @@
 
 Currently, I am a master's student studying at [Sharif University of Technology](http://www.sharif.edu/). 
 
-📫 You can visit my homepage on [amirpourmand.ir](https://amirpourmand.ir/).
+📫 To learn more about me, visit my English homepage at [amirpourmand.ir](https://amirpourmand) or my Farsi website at [aprd.ir](https://aprd.ir).
 
 You can see my Github contributions at [Github resume](https://resume.github.io/?pourmand1376). Also [GitHub Public Gists](https://gist.github.com/pourmand1376) is where I have store simple commands which help my productivity. 
 
