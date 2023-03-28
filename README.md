@@ -29,7 +29,7 @@ Probably the most useful repo for myself is [my dotfiles](https://github.com/pou
 
 <!-- BLOG-POST-LIST:START -->
 - [Youtube Channels Which Talk about AI](https://amirpourmand.ir/posts/2023/youtube-channels-about-ai/)
-- [How to Sync Obsidian between Android, Windows and Mac](https://amirpourmand.ir/posts/2023/how-to-sync-obsidian/)
+- [How to Sync Obsidian between Android, Windows and Mac via GIT](https://amirpourmand.ir/posts/2023/how-to-sync-obsidian/)
 - [Make Windows Faster](https://amirpourmand.ir/posts/2022/make-windows-faster/)
 - [A Guide to setup your own jekyll website &lpar;al-folio Theme&rpar;](https://amirpourmand.ir/posts/2022/al-folio-jekyll-website/)
 - [Guide for using remote server &lpar;linux&rpar; for a data scientist!](https://amirpourmand.ir/posts/2022/guide-to-use-remote-linux-server/)
