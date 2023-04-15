@@ -17,12 +17,13 @@ Probably the most useful repo for myself is [my dotfiles](https://github.com/pou
 
 **More Explanation**:
 
-- **GIT**: I have good experience in working with git (you can see my pull requests in github) and I've taken quite a few courses (one of which is Mosh Hamedani's course). 
+- **GIT**: I have good experience in working with git (you can see my pull requests in github) and I've taken quite a few courses (one of which is Mosh Hamedani's course). In fact, everything in my life is managed by git (even my daily notes in obisidian).
 - **Docker**: Also Mosh Hamedani's course on docker :). I have also added docker support to some of open source projects like `ai-folio`, `simorq`.
 - **SQL-Server**: Lots of experience in optimizing SQL-server queries. Probably, the most noticable one was a 100x optimization on a task that is done frequently. 
 - **C#**: I can say I've taken all mosh courses. I love mosh :) I think his courses are of the best quality. I've worked with c# in industry for 4 years. After learning all libraries and different aspects, I decided that I want to be an ML scientist. So python is the way to go. 
 - **Python**: Something that everyone should know. 
-- **Pytorch**: It's been a year ... so still not a professional. 
+- **Numpy**: I think one of the best ways to master numpy is by practice ([this repo](https://github.com/rougier/numpy-100) has been very useful). 
+- **Pytorch**: I have learned it via practice. Still, It has lots of stuff going on. 
 - **Tensorflow**: to some extent. Not a professional. 
 
 ## Latest Blog Posts
