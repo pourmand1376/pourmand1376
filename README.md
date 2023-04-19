@@ -29,7 +29,7 @@ Probably the most useful repo for myself is [my dotfiles](https://github.com/pou
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make YOLOv5 Interpretable using GradCAM Library](https://amirpourmand.ir/posts/2023/yolov5-interpretability-gradcam/)
+- [How to Make YOLOv5 Interpretable using GradCAM](https://amirpourmand.ir/posts/2023/yolov5-interpretability-gradcam/)
 - [Youtube Channels Which Talk about AI](https://amirpourmand.ir/posts/2023/youtube-channels-about-ai/)
 - [How to Sync Obsidian between Android, Windows and Mac via GIT](https://amirpourmand.ir/posts/2023/how-to-sync-obsidian/)
 - [Make Windows Faster](https://amirpourmand.ir/posts/2022/make-windows-faster/)
