@@ -29,11 +29,11 @@ Probably the most useful repo for myself is [my dotfiles](https://github.com/pou
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Self-Supervised Bug Localization and Repair - A Research Proposal](https://amirpourmand.ir/posts/2023/bug-detection-and-repair/)
 - [How to Make YOLOv5 Interpretable using GradCAM](https://amirpourmand.ir/posts/2023/yolov5-interpretability-gradcam/)
 - [Youtube Channels Which Talk about AI](https://amirpourmand.ir/posts/2023/youtube-channels-about-ai/)
 - [How to Sync Obsidian between Android, Windows and Mac via GIT](https://amirpourmand.ir/posts/2023/how-to-sync-obsidian/)
 - [Make Windows Faster](https://amirpourmand.ir/posts/2022/make-windows-faster/)
-- [A Guide to setup your own jekyll website &lpar;al-folio Theme&rpar;](https://amirpourmand.ir/posts/2022/al-folio-jekyll-website/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pourmand1376.pourmand1376)
