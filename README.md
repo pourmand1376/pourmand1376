@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+I+am+Amir+Pourmand)](https://git.io/typing-svg)
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 
-Currently, I am a master's student studying at [Sharif University of Technology](http://www.sharif.edu/). 
-
 📫 To learn more about me, visit my English homepage at [amirpourmand.ir](https://amirpourmand) or my Farsi website at [aprd.ir](https://aprd.ir).
 
 You can see my Github contributions at [Github resume](https://resume.github.io/?pourmand1376). Also [GitHub Public Gists](https://gist.github.com/pourmand1376) is where I have store simple commands which help my productivity. 
