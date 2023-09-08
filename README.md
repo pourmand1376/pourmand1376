@@ -27,11 +27,11 @@ Probably the most useful repo for myself is [my dotfiles](https://github.com/pou
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Host your static website on Netlify and Use Cloudflare CDN](https://amirpourmand.ir/posts/2023/host-netlify-cdn-cloudflare/)
 - [Machine Learning Blogs and Resources](https://amirpourmand.ir/posts/2023/ml-blogs-and-resources/)
 - [Self-Supervised Bug Localization and Repair - A Research Proposal](https://amirpourmand.ir/posts/2023/bug-detection-and-repair/)
 - [Explainable YOLO: Making YOLOv5 interpretable via GradCAM](https://amirpourmand.ir/posts/2023/yolov5-interpretability-gradcam/)
 - [Youtube Channels Which Talk about AI](https://amirpourmand.ir/posts/2023/youtube-channels-about-ai/)
-- [How to Sync Obsidian between Android, Windows and Mac via GIT](https://amirpourmand.ir/posts/2023/how-to-sync-obsidian/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pourmand1376.pourmand1376)
