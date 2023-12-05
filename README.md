@@ -27,11 +27,11 @@ Probably the most useful repo for myself is [my dotfiles](https://github.com/pou
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Useful Linux Commands and Scripts](https://amirpourmand.ir/posts/2023/useful-linux-commands/)
 - [Elements of a Deep Learning Method](https://amirpourmand.ir/posts/2023/elements-of-deep-learning-methods/)
 - [How to Host your static website on Netlify and Use Cloudflare CDN](https://amirpourmand.ir/posts/2023/host-netlify-cdn-cloudflare/)
 - [Machine Learning Blogs and Resources](https://amirpourmand.ir/posts/2023/ml-blogs-and-resources/)
 - [Self-Supervised Bug Localization and Repair - A Research Proposal](https://amirpourmand.ir/posts/2023/bug-detection-and-repair/)
-- [Explainable YOLO: Making YOLOv5 interpretable via GradCAM](https://amirpourmand.ir/posts/2023/yolov5-interpretability-gradcam/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pourmand1376.pourmand1376)
