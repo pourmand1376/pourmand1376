@@ -5,8 +5,6 @@
 
 You can see my Github contributions at [Github resume](https://resume.github.io/?pourmand1376). Also [GitHub Public Gists](https://gist.github.com/pourmand1376) is where I have store simple commands which help my productivity. 
 
-Probably the most useful repo for myself is [my dotfiles](https://github.com/pourmand1376/.dotfiles). There I keep my linux configurations (separated for each distribution). Also, there is a script to install all my windows tools at once. 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pourmand1376&show_icons=true&theme=default&bg_color=00000000)
 
 
