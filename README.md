@@ -25,6 +25,7 @@ You can see my Github contributions at [Github resume](https://resume.github.io/
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Install GPU Driver on Ubuntu](https://amirpourmand.ir/posts/2024/install-gpu-driver-ubuntu/)
 - [A Great Combination of Jupyter + Conda + Docker](https://amirpourmand.ir/posts/2023/combination-docker-jupyter-conda/)
 - [Useful Linux Commands and Scripts](https://amirpourmand.ir/posts/2023/useful-linux-commands/)
 - [Elements of a Deep Learning Method](https://amirpourmand.ir/posts/2023/elements-of-deep-learning-methods/)
@@ -32,7 +33,6 @@ You can see my Github contributions at [Github resume](https://resume.github.io/
 - [Machine Learning Blogs and Resources](https://amirpourmand.ir/posts/2023/ml-blogs-and-resources/)
 - [Self-Supervised Bug Localization and Repair - A Research Proposal](https://amirpourmand.ir/posts/2023/bug-detection-and-repair/)
 - [Explainable YOLO: Making YOLOv5 interpretable via GradCAM](https://amirpourmand.ir/posts/2023/yolov5-interpretability-gradcam/)
-- [Youtube Channels Which Talk about AI](https://amirpourmand.ir/posts/2023/youtube-channels-about-ai/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pourmand1376.pourmand1376)
