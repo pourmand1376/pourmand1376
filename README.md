@@ -1,11 +1,13 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+I+am+Amir+Pourmand)](https://git.io/typing-svg)
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 
-📫 To learn more about me, visit my English homepage at [amirpourmand.ir](https://amirpourmand.ir) or my Farsi website at [aprd.ir](https://aprd.ir).
+📫 **Get to Know Me Better:**
+- English Blog: [amirpourmand.ir](https://amirpourmand.ir)
+- Farsi Blog: [aprd.ir](https://aprd.ir)
+- GitHub Contributions: [Github resume](https://resume.github.io/?pourmand1376)
+- [GitHub Public Gists](https://gist.github.com/pourmand1376): My collection of productivity-boosting commands.
 
-You can see my Github contributions at [Github resume](https://resume.github.io/?pourmand1376). Also [GitHub Public Gists](https://gist.github.com/pourmand1376) is where I have store simple commands which help my productivity. 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pourmand1376&show_icons=true&theme=default&bg_color=00000000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pourmand1376&show_icons=true&theme=default&bg_color=00000000)
 
 
 <h3 align="left">Languages and Tools:</h3> 
