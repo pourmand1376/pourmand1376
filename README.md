@@ -28,7 +28,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pourmand1376.pourmand1376)
-[![Kaggle](https://road-to-kaggle-grandmaster.vercel.app/api/simple/amirpourmand)](https://www.kaggle.com/amirpourmand/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
