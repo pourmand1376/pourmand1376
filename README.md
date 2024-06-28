@@ -17,7 +17,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Slack Integration](https://amirpourmand.ir/posts/2024/azure-slack-integration/)
+- [How to Automatically Send Azure Alerts into Slack Channels](https://amirpourmand.ir/posts/2024/azure-slack-integration/)
 - [How to Record Google Meet Session With OBS Studio](https://amirpourmand.ir/posts/2024/record-google-meet-obs/)
 - [Browser Extensions I use](https://amirpourmand.ir/posts/2024/browser-extensions-i-use/)
 - [How to Install GPU Driver on Ubuntu](https://amirpourmand.ir/posts/2024/install-gpu-driver-ubuntu/)
