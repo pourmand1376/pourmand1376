@@ -17,6 +17,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Azure Slack Integration](https://amirpourmand.ir/posts/2024/azure-slack-integration/)
 - [How to Record Google Meet Session With OBS Studio](https://amirpourmand.ir/posts/2024/record-google-meet-obs/)
 - [Browser Extensions I use](https://amirpourmand.ir/posts/2024/browser-extensions-i-use/)
 - [How to Install GPU Driver on Ubuntu](https://amirpourmand.ir/posts/2024/install-gpu-driver-ubuntu/)
@@ -24,7 +25,6 @@
 - [Useful Linux Commands and Scripts](https://amirpourmand.ir/posts/2023/useful-linux-commands/)
 - [Elements of a Deep Learning Method](https://amirpourmand.ir/posts/2023/elements-of-deep-learning-methods/)
 - [How to Host your static website on Netlify and Use Cloudflare CDN](https://amirpourmand.ir/posts/2023/host-netlify-cdn-cloudflare/)
-- [Machine Learning Blogs and Resources](https://amirpourmand.ir/posts/2023/ml-blogs-and-resources/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pourmand1376.pourmand1376)
