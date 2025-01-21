@@ -6,6 +6,7 @@
 - Farsi Blog: [aprd.ir](https://aprd.ir)
 - GitHub Contributions: [Github resume](https://resume.github.io/?pourmand1376)
 - [GitHub Public Gists](https://gist.github.com/pourmand1376): My collection of productivity-boosting commands.
+- [My Dotfiles](https://github.com/pourmand1376/.dotfiles)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pourmand1376&show_icons=true&theme=default&bg_color=00000000)
 
