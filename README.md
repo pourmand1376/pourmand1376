@@ -18,6 +18,7 @@
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Derive Most Math Trigonometry Formulas via Euler Identity](https://amirpourmand.ir/posts/2025/math-trigonometry-formulas-euler/)
 - [Docker Commands I use on a daily basis](https://amirpourmand.ir/posts/2024/docker-commands-i-use/)
 - [What are Makefiles and Why should anyone use them?](https://amirpourmand.ir/posts/2024/makefiles-and-their-applications/)
 - [Setting Up Caddy for Reverse Proxy is dead simple](https://amirpourmand.ir/posts/2024/caddy-reverse-proxy/)
@@ -25,7 +26,6 @@
 - [How to Record Google Meet Session With OBS Studio](https://amirpourmand.ir/posts/2024/record-google-meet-obs/)
 - [Browser Extensions I use](https://amirpourmand.ir/posts/2024/browser-extensions-i-use/)
 - [How to Install GPU Driver on Ubuntu](https://amirpourmand.ir/posts/2024/install-gpu-driver-ubuntu/)
-- [A Great Combination of Jupyter + Conda + Docker](https://amirpourmand.ir/posts/2023/combination-docker-jupyter-conda/)
 <!-- BLOG-POST-LIST:END -->
 
 ![](https://visitor-badge.glitch.me/badge?page_id=pourmand1376.pourmand1376)
