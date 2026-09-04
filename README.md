@@ -8,6 +8,8 @@
 <span style="color:#808080">┃   ┣━━ </span><span style="font-weight:bold"><a href="https://aprd.ir">aprd.ir</a></span>           <span style="color:#808080">Persian blog</span>
 <span style="color:#808080">┃   ┣━━ </span><span style="font-weight:bold"><a href="https://apourmand.ir">apourmand.ir</a></span>       <span style="color:#808080">personal site</span>
 <span style="color:#808080">┃   ┗━━ </span><span style="font-weight:bold"><a href="https://podcasts.apple.com/us/podcast/%D8%A7%DB%8C%D8%B3%D8%AA%DA%AF%D8%A7%D9%87-%D9%87%D9%88%D8%B4-%D9%85%D8%B5%D9%86%D9%88%D8%B9%DB%8C/id1744073063">ایستگاه هوش مصنوعی</a></span>  <span style="color:#808080">podcast</span>
+<span style="color:#808080">┣━━ </span>📝 Latest Persian Writing
+<span style="color:#808080">┃   ┗━━ </span><span style="font-weight:bold"><a href="https://aprd.ir/index.xml">آخرین نوشته‌ها در aprd.ir</a></span>  <span style="color:#808080">Farsi RSS feed</span>
 <span style="color:#808080">┣━━ </span>🧰 Toolbox
 <span style="color:#808080">┃   ┣━━ </span><span style="font-weight:bold">Python · C# · .NET · SQL · Bash</span>
 <span style="color:#808080">┃   ┣━━ </span><span style="font-weight:bold">Docker · Linux · Git · MySQL · MongoDB</span>
