@@ -16,20 +16,15 @@
 <span style="color:#808080">┃   ┣━━ </span><span style="font-weight:bold"><a href="https://amirpourmand.ir/posts/2025/math-trigonometry-formulas-euler/">Derive trigonometry formulas via Euler identity</a></span>
 <span style="color:#808080">┃   ┣━━ </span><span style="font-weight:bold"><a href="https://amirpourmand.ir/posts/2024/docker-commands-i-use/">Docker commands I use daily</a></span>
 <span style="color:#808080">┃   ┗━━ </span><span style="font-weight:bold"><a href="https://amirpourmand.ir/posts/2024/makefiles-and-their-applications/">What are Makefiles?</a></span>
-<span style="color:#808080">┗━━ </span>🔗 Elsewhere
-<span style="color:#808080">    ┣━━ </span><span style="font-weight:bold"><a href="https://linkedin.com/in/amir-pourmand">LinkedIn</a></span>  ·  <span style="font-weight:bold"><a href="https://github.com/pourmand1376/.dotfiles">Dotfiles</a></span>
-<span style="color:#808080">    ┗━━ </span><span style="font-weight:bold"><a href="https://gist.github.com/pourmand1376">Public gists</a></span>  ·  <span style="font-weight:bold"><a href="https://resume.github.io/?pourmand1376">GitHub resume</a></span>
+<span style="color:#808080">┣━━ </span>🔗 Connect with me
+<span style="color:#808080">┃   ┣━━ </span><span style="font-weight:bold"><a href="https://linkedin.com/in/amir-pourmand">LinkedIn</a></span>  ·  <span style="font-weight:bold"><a href="https://stackoverflow.com/users/4201765">Stack Overflow</a></span>
+<span style="color:#808080">┃   ┣━━ </span><span style="font-weight:bold"><a href="https://stackexchange.com/users/5259996/amir-pourmand?tab=accounts">Stack Exchange</a></span>  ·  <span style="font-weight:bold"><a href="https://kaggle.com/amirpourmand">Kaggle</a></span>
+<span style="color:#808080">┃   ┗━━ </span><span style="font-weight:bold"><a href="https://huggingface.co/pourmand1376/">Hugging Face</a></span>  ·  <span style="font-weight:bold"><a href="https://github.com/pourmand1376">GitHub</a></span>
+<span style="color:#808080">┣━━ </span>👤 See my profile on
+<span style="color:#808080">┃   ┣━━ </span><span style="font-weight:bold"><a href="https://resume.github.io/?pourmand1376">GitHub resume</a></span>  ·  <span style="font-weight:bold"><a href="https://gist.github.com/pourmand1376">Public gists</a></span>
+<span style="color:#808080">┃   ┣━━ </span><span style="font-weight:bold"><a href="https://amirpourmand.ir">amir-pourmand</a></span>  ·  <span style="font-weight:bold"><a href="https://amirpourmand.ir/feed.xml">RSS feed</a></span>
+<span style="color:#808080">┃   ┗━━ </span><span style="font-weight:bold"><a href="https://github.com/pourmand1376/.dotfiles">Dotfiles</a></span>
+<span style="color:#808080">┗━━ </span>📌 Inspired by <span style="font-weight:bold"><a href="https://github.com/koaning">koaning</a></span>
 
 <span style="color:#008000">$ git status</span>
 <span style="color:#808080">On branch main · always learning · always building</span></pre>
-
-<!-- BLOG-POST-LIST:START -->
-- [How to model any DFA using SQL](https://amirpourmand.ir/posts/2026/how-to-model-any-dfa-sql/)
-- [Derive Most Math Trigonometry Formulas via Euler Identity](https://amirpourmand.ir/posts/2025/math-trigonometry-formulas-euler/)
-- [Docker Commands I use on a daily basis](https://amirpourmand.ir/posts/2024/docker-commands-i-use/)
-- [What are Makefiles and Why should anyone use them?](https://amirpourmand.ir/posts/2024/makefiles-and-their-applications/)
-- [Setting Up Caddy for Reverse Proxy is dead simple](https://amirpourmand.ir/posts/2024/caddy-reverse-proxy/)
-- [How to Automatically Send Azure Alerts into Slack Channels](https://amirpourmand.ir/posts/2024/azure-slack-integration/)
-- [How to Record Google Meet Session With OBS Studio](https://amirpourmand.ir/posts/2024/record-google-meet-obs/)
-- [Browser Extensions I use](https://amirpourmand.ir/posts/2024/browser-extensions-i-use/)
-<!-- BLOG-POST-LIST:END -->
